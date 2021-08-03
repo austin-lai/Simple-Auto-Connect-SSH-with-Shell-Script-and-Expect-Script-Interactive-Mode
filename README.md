@@ -1,6 +1,5 @@
 # Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)
 
-
 > Austin Lai | August 3rd, 2021
 
 ---
