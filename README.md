@@ -1,15 +1,15 @@
 # Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)
 
 
-> Austin Lai | July 25th, 2021
+> Austin Lai | August 3rd, 2021
 
 ---
 
 <!-- Description -->
 
-Simple Auto Connect SSH with Shell Script and Expect Script Interactive Mode
+Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)
 
-This set of Auto Connect SSH contain 2 part
+This Auto Connect SSH contain 2 parts
 
 - [First - Shell Script - Collect SSH Info](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode/blob/master/ssh-info.sh)
 - [Second - Expect Script - Automation](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode/blob/master/auto-ssh-with-expect.sh)
@@ -17,8 +17,6 @@ This set of Auto Connect SSH contain 2 part
 <!-- /Description -->
 
 <br />
-
-
 
 ---
 
