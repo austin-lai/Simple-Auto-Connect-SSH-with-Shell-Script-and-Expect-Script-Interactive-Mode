@@ -8,6 +8,8 @@
 
 Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)
 
+The script initial drafted in 2019, amended and published.
+
 This Auto Connect SSH contain 2 parts
 
 - [First - Shell Script - Collect SSH Info](https://github.com/austin-lai/Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script-Interactive-Mode/blob/master/ssh-info.sh)
