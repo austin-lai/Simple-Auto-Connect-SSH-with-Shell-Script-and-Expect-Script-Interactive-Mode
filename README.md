@@ -1,4 +1,5 @@
-# Simple-Auto-Connect-SSH-with-Shell-Script-and-Expect-Script
+# Simple Auto Connect SSH with Shell Script and Expect Script Interactive Mode
+
 
 > Austin Lai | July 25th, 2021
 
@@ -6,7 +7,7 @@
 
 <!-- Description -->
 
-Simple Auto Connect SSH with Shell Script and Expect Script
+Simple Auto Connect SSH with Shell Script and Expect Script Interactive Mode
 
 This set of Auto Connect SSH contain 2 part
 
