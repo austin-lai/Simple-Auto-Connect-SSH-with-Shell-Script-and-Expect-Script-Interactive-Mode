@@ -11,8 +11,8 @@ Simple Auto Connect SSH with Shell Script and Expect Script Interactive Mode
 
 This set of Auto Connect SSH contain 2 part
 
-- [Shell Script - Collect SSH Info]()
-- [Expect Script - Automation]()
+- [First - Shell Script - Collect SSH Info]()
+- [Second - Expect Script - Automation]()
 
 <!-- /Description -->
 
