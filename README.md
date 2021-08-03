@@ -8,7 +8,7 @@
 
 Simple Auto Connect SSH with Shell Script and Expect Script (Interactive Mode)
 
-The script initial drafted in 2019, amended and published.
+The script initial drafted in 2018, amended and published.
 
 This Auto Connect SSH contain 2 parts
 
